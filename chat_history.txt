@@ -1,0 +1,5 @@
+Question: write three. point about iso
+Answer: 1. ISO is the International Organization for Standardization, a worldwide federation of national standards bodies.
+2. ISO develops and publishes International Standards that provide requirements, specifications, guidelines, or characteristics for products, services, and systems to ensure quality, safety, and efficiency.
+3. ISO standards are voluntary, but they are often adopted by governments and businesses as a way to ensure that products and services meet certain minimum requirements.
+
